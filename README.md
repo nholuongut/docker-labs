@@ -8,11 +8,10 @@
 - Over 500+ Highly Interactive Docker Tutorials and Guides
 - Well tested on Docker Desktop  and can be run on Browser (no Infrastructure required)
 
-![](bitfield.png)
-
 # Docker Roadmaps
 [Docker Roadmaps here](https://github.com/nholuongut/all-roadmaps/blob/main/public/roadmaps/docker.png)
 
+![](bitfield.png)
 
 I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
