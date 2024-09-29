@@ -4,11 +4,11 @@
 ![Discord](https://img.shields.io/discord/1020180904129335379)
 ![GitHub contributors](https://img.shields.io/github/contributors/nholuongut/dockerlabs)
 
-![](bitfield.png)
-
 - A $0 Learning Platform for All Levels - from the ground Up
 - Over 500+ Highly Interactive Docker Tutorials and Guides
 - Well tested on Docker Desktop  and can be run on Browser (no Infrastructure required)
+
+![](bitfield.png)
 
 # Docker Roadmaps
 [Docker Roadmaps here](https://github.com/nholuongut/all-roadmaps/blob/main/public/roadmaps/docker.png)
