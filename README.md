@@ -16,20 +16,6 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-I'm are always open to your feedback.  Please contact as bellow information:
-### [Contact ]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
-
-![](bitfield.png)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
-
-# License
-* Nho Luong (c). All Rights Reserved.
-
 # Featured Blog Posts and Articles with github by Nho Luong on Github
 - [Github Repositories](https://github.com/nholuongut?tab=repositories)
 
@@ -394,6 +380,7 @@ I'm are always open to your feedback.  Please contact as bellow information:
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 * [Email Address](luongutnho@hotmail.com) 
 
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
