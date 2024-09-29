@@ -11,8 +11,6 @@
 # Docker Roadmaps
 [Docker Roadmaps here](https://github.com/nholuongut/all-roadmaps/blob/main/public/roadmaps/docker.png)
 
-![](bitfield.png)
-
 I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
@@ -21,6 +19,7 @@ I'm are always open to your feedback.  Please contact as bellow information:
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 * [Email Address](luongutnho@hotmail.com) 
 
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
