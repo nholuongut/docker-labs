@@ -4,8 +4,7 @@
 ![Discord](https://img.shields.io/discord/1020180904129335379)
 ![GitHub contributors](https://img.shields.io/github/contributors/nholuongut/dockerlabs)
 
-
-![My image](https://raw.githubusercontent.com/nholuongut/dockerlabs/master/images/dockerlabs.jpeg)
+![](bitfield.png)
 
 - A $0 Learning Platform for All Levels - from the ground Up
 - Over 500+ Highly Interactive Docker Tutorials and Guides
